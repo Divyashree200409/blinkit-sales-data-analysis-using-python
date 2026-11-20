@@ -124,12 +124,6 @@ Through this project, I gained practical experience in:
 - Extracting business insights from raw data.
 - Communicating analytical findings.
 
-👩‍💻 Author
-
-Divyashree
 
 GitHub: "Divyashree200409" (https://github.com/Divyashree200409)
 
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
